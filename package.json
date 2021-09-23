@@ -1,0 +1,23 @@
+{
+  "name": "zenn-box",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KouSei089/zenn-cooperation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KouSei089/zenn-cooperation/issues"
+  },
+  "homepage": "https://github.com/KouSei089/zenn-cooperation#readme",
+  "description": "",
+  "dependencies": {
+    "zenn-cli": "^0.1.96"
+  }
+}
