@@ -67,7 +67,9 @@ sqlite> select * from schema_migrations;
 
 簡単な翻訳をかけると...
 
+:::message
 どうやら、railsは、このテーブルに一意のIDのエントリを保持することによって、すでに実行されたすべての移行を記録しているらしいです。
+:::
 
 `$ rails db:rollback`で最後に実行された移行ファイル（最後の移行ファイル）をロールバックして、`schema_migrations`の中身を確認してみます。
 ```ruby
@@ -88,10 +90,7 @@ sqlite>
 
 ## まとめ
 
-:::message
 `migrationファイル`は日付情報で判断して、 `schema_migrations`に値がないものを実行するようになっているっぽいです！
-:::
-
 ## 参考記事
 
 https://tushartuteja.medium.com/demystifying-rails-migrations-53abcf3a7ddd
