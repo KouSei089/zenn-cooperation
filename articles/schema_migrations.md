@@ -1,6 +1,6 @@
 ---
 title: "Railsのschema_migrationsってなんぞや"
-emoji: "<img src="https://user-images.githubusercontent.com/77420123/157225601-d7fdc37c-a29f-4f4e-94e6-271b30d46111.svg" width="10px">"
+emoji: "📕"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["ruby", "rails"]
 published: false
