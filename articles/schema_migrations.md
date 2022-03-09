@@ -63,6 +63,7 @@ sqlite> select * from schema_migrations;
 ```
 
 > The table schema_migrations contain one column with one entry that is the unique id of the file that was created. Coincidence ? I don’t think so, rails actually does book keeping of all the migrations that had already run by keeping an entry of the unique id in this table.
+
 参考記事より引用させていただきました.
 
 簡単な翻訳をかけると...
