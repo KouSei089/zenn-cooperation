@@ -1,5 +1,5 @@
 ---
-title: "動的型付けと静的型付け"
+title: "動的型付けと静的型付けの違い"
 emoji: "🔧"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["メモ","Ruby"]
