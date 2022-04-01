@@ -76,8 +76,8 @@ published: false
 > ![zu01_02](https://user-images.githubusercontent.com/77420123/159205367-4a305ed1-3f86-463a-bdab-6094d8b5413b.jpeg)
 引用 : 日経XTECH
 
-1. `https://www.aaa.jp`のIPアドレスを教えて』とDNSサーバーに問い合わせする。
-2. DNSサーバが色々なDNSサーバを経由して、IPアドレス（192.168.0.1）を教えてくれる。
+1. 『`https://www.aaa.jp`のIPアドレスを教えて』とDNSサーバーに問い合わせする。
+2. DNSサーバが色々なDNSサーバを経由して、IPアドレス（`192.168.0.1`）を教えてくれる。
 3. IPアドレスでWebサーバにアクセスする。（ブラウザの裏で実行されている）
 
 :::message
