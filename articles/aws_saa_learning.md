@@ -1,6 +1,6 @@
 ---
 title: "AWS SAA学習記録"
-emoji: 🔍
+emoji: 🛳
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: []
 published: false
