@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "The Principles of Programming 要約"
 emoji: "📌"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: []
@@ -23,5 +23,30 @@ published: false
 - 改善対象もコードである
 - 上記のことから分業的になりすぎるのは、本質的に良い設計でなくなる可能性がある
 
-### 
+### コードは必ず変更される
+- リーダブルなコードを書く
 
+## 第2章 原則
+
+### KISS
+- `Keep It Short and Simple`(簡潔かつ単純にしておけ)
+
+### DRY
+- `Don't Repeat Yourself.`(繰り返すな)
+
+### YAGNI
+- `You Aren't Going to Need It.`(それはきっと必要にならない)
+
+### PIE
+- `Programming Intently and Expressively.`(意図を表現してプログラミングせよ)
+- コードを書くときは書きやすさよりの読みやすさを重要視する
+
+### SLAP
+- `Single Level of Abstraction Principle.`(抽象化レベルの統一)
+- コードの抽象レベルを上から下に向かって統一すると書籍の目次のようになり、見やすくなる
+
+### OCP
+- `Open-Closed Principle`(オープン・クローズドの原則)
+
+### 名前重要
+- `Naming is important.`
